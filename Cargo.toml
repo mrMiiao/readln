@@ -1,0 +1,10 @@
+[package]
+name = "readln"
+version = "0.1.0"
+edition = "2021"
+authors = ['Miiao']
+description = 'Finally! Normal input for Rust...'
+keywords = ['io', 'read', 'input']
+repository = 'https://github.com/mrMiiao/readln'
+readme = 'README.md'
+license = 'MPL-2.0'
